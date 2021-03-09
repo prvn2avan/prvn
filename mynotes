@@ -1,0 +1,25 @@
+EC2 service 
+
+to learn free courses 
+
+https://aws.amazon.com/aispl/registration-confirmation/
+
+https://ap-south-1.console.aws.amazon.com/console/home?region=ap-south-1
+
+always use north viginia
+
+pem file
+
+gitbash 
+
+ssh key pair
+
+ssh -i lab.pem centos@ipaddress
+
+scp -i key file-to-transfer username@public-ip-address:~
+
+
+sudo usermod -aG wheel myadmin
+
+sudo yum -y install git
+
